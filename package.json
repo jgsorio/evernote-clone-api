@@ -4,7 +4,8 @@
   "description": "API para o projeto Evernote acompanhando o curso do OnebitCode",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/server.js"
+    "dev": "nodemon src/server.js",
+    "start": "nodemon src/server.js"
   },
   "engines": {
     "node": "18.20.1"
